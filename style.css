@@ -1,0 +1,197 @@
+
+h2 {
+    background-color: rgb(112, 108, 108);
+    width: 50%;
+    height: 30%;
+    margin-left: 25%;
+    padding: 10px 5px;
+}
+
+
+.logo-background {
+    background-image: url("bg-image.jpg");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.logo {
+    width: 30%;
+    height: 30%;
+    padding-left: 2cm;
+}
+
+.nav-bar {
+    width: 100%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin: -1px;
+    background-color:rgb(235, 232, 232)
+}
+
+.nav-text {
+    font-size: 20px;
+    margin: 15px;
+}
+.nav-text:hover {
+    color: gray;
+}
+
+.nav-bar input[type=text] {
+    padding: 6px;
+    border: none;
+    margin-top: -5px;
+    margin-left: 180px;
+    font-size: 20px;
+    border-radius: 10px;
+  }
+
+  .search-button {
+    font-size: 18px;
+    margin-left: 1px;
+    padding: 4px 5px;
+  }
+
+  /* Cousoral CSS */
+
+  .form-control {
+    margin-left: 10cm;
+  }
+  
+  .carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+  
+    .slide-one {
+      font-weight: bold;
+      padding-left: 25%;
+      padding-top: 20%;
+      font-size: 45px;
+      color:burlywood
+    }
+  
+    .slide-two {
+      font-weight: bold;
+      padding-left: 25%;
+      padding-top: 30%;
+      font-size: 35px;
+    }
+  .slide-two-two {
+    padding-left: 25%;
+    font-size: 25px;
+    font-weight:800;
+  }
+  
+  .slide-three {
+    font-weight: bold;
+      padding-left: 25%;
+      padding-top: 30%;
+      font-size: 35px;
+  }
+  
+  .slide-three-three {
+    padding-left: 25%;
+    font-size: 25px;
+    font-weight:800;
+    color: rgb(221, 88, 88);
+  }
+  
+    .know-more {
+      margin-left: 25%;
+      background-color:brown;
+      color: white;
+    }
+    
+
+    /* Contact me details */
+
+    .contact-me {
+        text-align: center;
+        padding-top: 40px;
+        background-image: url("contact-bg1.jpg");
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        min-height: 60px;
+    }
+
+    .contact-me {
+        width: 100%;
+        /* margin: 50px 100px 35px 100px; */
+        font-weight: 700;
+        height: 100%;
+    }
+
+    .btn1 {
+        padding-top: 10px;
+        background-color: gray;
+        border-radius: 10px;
+        font-weight: 100;
+        color: #FFFFFF;
+        font-size: 30px;
+        padding: 10px;
+        text-shadow: 1px 1px 20px gray;
+        box-shadow: 1px 1px 20px 0px #FFFFFF;
+        border: solid rgb(143, 139, 139) 2px;
+        background: rgb(202, 196, 196);
+    } 
+    
+    .btn1:hover {
+        border: solid gray 1px;
+        background: gray;
+        background-image: linear-gradient(to bottom, gray, gray);
+        border-radius: 20px;
+        text-decoration: none;
+        color: black;
+    }
+
+    /* footer section */
+
+.container-fluid {
+       text-align: center;
+    }
+
+/*Social icon*/
+
+.social-icon {
+	margin: 10px 10px 50px 10px;
+    font-size: 30px;
+}
+
+.social-icon:hover {
+	color: black;
+}
+
+.insta {
+	color: #3f729b;
+}
+
+.fb {
+	color: #3b5998;
+}
+
+.in {
+	color: #0e76a8
+}
+
+.twitter {
+	color: #00acee;
+}
+
+.mail {
+	color: #b23121;
+}
+
+.copy {
+    font-weight: bolder;
+    color: rgb(121, 110, 19);
+}
+
